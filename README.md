@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker-gs-ping
 
 A simple Go server/microservice example for [Docker's Go Language Guide](https://docs.docker.com/language/golang/).
@@ -21,3 +22,7 @@ Thus, feedback is welcome, but please no nits or pedantry. Ain't nobody got time
 ## License
 
 [Apache-2.0 License](LICENSE)
+=======
+# golang
+LEARN CI from https://docs.docker.com/language/golang/configure-ci-cd/
+>>>>>>> 65447a429ad9ae745f975dfcafc5f5713bcdb572
